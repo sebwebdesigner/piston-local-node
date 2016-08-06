@@ -16,7 +16,7 @@ defaults = {
     "format": "markdown",
     "limit": 10,
     "list_sorting": "hot",
-    "node": "wss://this.piston.rocks",
+    "node": "ws://127.0.0.1:8090",
     "post_category": "steem",
     "rpcpassword": "",
     "rpcuser": "",
